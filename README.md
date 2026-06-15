@@ -73,15 +73,11 @@ The following visualizations were created:
 - Outlier detection improved data quality.
 ---
 ## How to Run
-1. Clone the repository.
-```bash
-git clone <repository-url>
-```
-2. Open the notebook:
+1. Open the notebook:
 ```text
 notebooks/eda_and_cleaning.ipynb
 ```
-3. Run all cells in Jupyter Notebook.
+2. Run all cells in Jupyter Notebook.
 ---
 ## Author
 Submitted as part of the Data Science Internship Task – Exploratory Data Analysis (EDA) & Data Cleaning.
